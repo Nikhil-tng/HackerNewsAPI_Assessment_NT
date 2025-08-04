@@ -1,0 +1,53 @@
+<h1>Hacker News Stories</h1>
+
+<div class="search-bar">
+    <div class="search-tab">
+        <div class="input-group">
+            <input [(ngModel)]="searchTerm" (input)="onSearch()" (keyup.enter)="onSearch()" type="text" class="form-control" placeholder="Search stories..." style="max-width: 250px" />
+            <button *ngIf="!searchTerm" (click)="onSearch()" type="button" class="btn btn-primary search-btn">
+                <i class="fas fa-search"></i>
+            </button>
+            <button *ngIf="searchTerm" (click)="onClear()" type="button" class="btn btn-primary search-btn">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+    </div>
+</div>
+
+<div class="story-list">
+    <div *ngFor="let story of stories" class="story-item">
+        <h3>
+            <a *ngIf="story.url" [href]="story.url" target="_blank">{{
+                story.title
+                }}</a>
+            <span *ngIf="!story.url">{{ story.title }}</span>
+        </h3>
+        <p>
+            Posted by {{ story.by }} | Score: {{ story.score }} |
+            {{ story.time | date : "medium" }}
+        </p>
+    </div>
+</div>
+
+<div *ngIf="totalPages > 1" class="custom-paginator">
+    <div class="page-size">
+        <div class="input-group">
+            <div class="input-group-append">
+                <span class="input-group-text">Items per page:</span>
+            </div>
+            <select [(ngModel)]="pageSize" (selectionChange)="onSearch()" class="form-select" style="width: 65px">
+                <option [value]="10">10</option>
+                <option [value]="25">25</option>
+                <option [value]="50">50</option>
+                <option [value]="100">100</option>
+            </select>
+        </div>
+    </div>
+    <div class="page-info">
+        {{ getStartItem() }} – {{ getEndItem() }} of {{ totalItems }}
+    </div>
+    <div class="page-nav">
+        <button (click)="onPrevious()" [disabled]="currentPage === 1">❮</button>
+        <button (click)="onNext()" [disabled]="currentPage >= totalPages">❯</button>
+    </div>
+</div>
