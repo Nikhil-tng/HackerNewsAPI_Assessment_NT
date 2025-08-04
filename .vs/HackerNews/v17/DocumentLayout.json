@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Nikhil Assessment\\HackerNews\\HackerNews\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84238D5B-2368-415C-85E1-630680E3157B}|HackerNews\\HackerNews.csproj|e:\\Nikhil assessment\\hackernews\\hackernews\\hackernews\\services\\hackernewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84238D5B-2368-415C-85E1-630680E3157B}|HackerNews\\HackerNews.csproj|solutionrelative:hackernews\\services\\hackernewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84238D5B-2368-415C-85E1-630680E3157B}|HackerNews\\HackerNews.csproj|e:\\Nikhil assessment\\hackernews\\hackernews\\hackernews\\controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84238D5B-2368-415C-85E1-630680E3157B}|HackerNews\\HackerNews.csproj|solutionrelative:hackernews\\controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84238D5B-2368-415C-85E1-630680E3157B}|HackerNews\\HackerNews.csproj|e:\\Nikhil assessment\\hackernews\\hackernews\\hackernews\\services\\ihackernewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84238D5B-2368-415C-85E1-630680E3157B}|HackerNews\\HackerNews.csproj|solutionrelative:hackernews\\services\\ihackernewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84238D5B-2368-415C-85E1-630680E3157B}|HackerNews\\HackerNews.csproj|e:\\Nikhil assessment\\hackernews\\hackernews\\hackernews\\model\\newsstories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84238D5B-2368-415C-85E1-630680E3157B}|HackerNews\\HackerNews.csproj|solutionrelative:hackernews\\model\\newsstories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84238D5B-2368-415C-85E1-630680E3157B}|HackerNews\\HackerNews.csproj|e:\\Nikhil assessment\\hackernews\\hackernews\\hackernews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84238D5B-2368-415C-85E1-630680E3157B}|HackerNews\\HackerNews.csproj|solutionrelative:hackernews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624F6EE5-D95B-CB15-91C1-A188436AEE44}|HackerNews.UnitTests\\HackerNews.UnitTests.csproj|e:\\Nikhil assessment\\hackernews\\hackernews\\hackernews.unittests\\hackernewsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624F6EE5-D95B-CB15-91C1-A188436AEE44}|HackerNews.UnitTests\\HackerNews.UnitTests.csproj|solutionrelative:hackernews.unittests\\hackernewsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HackerNewsServiceTests.cs",
+              "DocumentMoniker": "E:\\Nikhil Assessment\\HackerNews\\HackerNews\\HackerNews.UnitTests\\HackerNewsServiceTests.cs",
+              "RelativeDocumentMoniker": "HackerNews.UnitTests\\HackerNewsServiceTests.cs",
+              "ToolTip": "E:\\Nikhil Assessment\\HackerNews\\HackerNews\\HackerNews.UnitTests\\HackerNewsServiceTests.cs",
+              "RelativeToolTip": "HackerNews.UnitTests\\HackerNewsServiceTests.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:17:47.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Nikhil Assessment\\HackerNews\\HackerNews\\HackerNews\\Program.cs",
+              "RelativeDocumentMoniker": "HackerNews\\Program.cs",
+              "ToolTip": "E:\\Nikhil Assessment\\HackerNews\\HackerNews\\HackerNews\\Program.cs",
+              "RelativeToolTip": "HackerNews\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:07:56.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoriesController.cs",
+              "DocumentMoniker": "E:\\Nikhil Assessment\\HackerNews\\HackerNews\\HackerNews\\Controllers\\StoriesController.cs",
+              "RelativeDocumentMoniker": "HackerNews\\Controllers\\StoriesController.cs",
+              "ToolTip": "E:\\Nikhil Assessment\\HackerNews\\HackerNews\\HackerNews\\Controllers\\StoriesController.cs",
+              "RelativeToolTip": "HackerNews\\Controllers\\StoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:06:33.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsStories.cs",
+              "DocumentMoniker": "E:\\Nikhil Assessment\\HackerNews\\HackerNews\\HackerNews\\Model\\NewsStories.cs",
+              "RelativeDocumentMoniker": "HackerNews\\Model\\NewsStories.cs",
+              "ToolTip": "E:\\Nikhil Assessment\\HackerNews\\HackerNews\\HackerNews\\Model\\NewsStories.cs",
+              "RelativeToolTip": "HackerNews\\Model\\NewsStories.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA7wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T15:54:43.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HackerNewsService.cs",
+              "DocumentMoniker": "E:\\Nikhil Assessment\\HackerNews\\HackerNews\\HackerNews\\Services\\HackerNewsService.cs",
+              "RelativeDocumentMoniker": "HackerNews\\Services\\HackerNewsService.cs",
+              "ToolTip": "E:\\Nikhil Assessment\\HackerNews\\HackerNews\\HackerNews\\Services\\HackerNewsService.cs",
+              "RelativeToolTip": "HackerNews\\Services\\HackerNewsService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T15:50:44.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHackerNewsService.cs",
+              "DocumentMoniker": "E:\\Nikhil Assessment\\HackerNews\\HackerNews\\HackerNews\\Services\\IHackerNewsService.cs",
+              "RelativeDocumentMoniker": "HackerNews\\Services\\IHackerNewsService.cs",
+              "ToolTip": "E:\\Nikhil Assessment\\HackerNews\\HackerNews\\HackerNews\\Services\\IHackerNewsService.cs",
+              "RelativeToolTip": "HackerNews\\Services\\IHackerNewsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T15:50:31.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

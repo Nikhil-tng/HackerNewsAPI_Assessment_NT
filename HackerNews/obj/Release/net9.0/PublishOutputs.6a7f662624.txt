@@ -1,0 +1,9 @@
+E:\Nikhil Assessment\HackerNews\HackerNews\HackerNews\obj\Release\net9.0\PubTmp\Out\HackerNews.exe
+E:\Nikhil Assessment\HackerNews\HackerNews\HackerNews\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+E:\Nikhil Assessment\HackerNews\HackerNews\HackerNews\obj\Release\net9.0\PubTmp\Out\appsettings.json
+E:\Nikhil Assessment\HackerNews\HackerNews\HackerNews\obj\Release\net9.0\PubTmp\Out\HackerNews.dll
+E:\Nikhil Assessment\HackerNews\HackerNews\HackerNews\obj\Release\net9.0\PubTmp\Out\HackerNews.deps.json
+E:\Nikhil Assessment\HackerNews\HackerNews\HackerNews\obj\Release\net9.0\PubTmp\Out\HackerNews.runtimeconfig.json
+E:\Nikhil Assessment\HackerNews\HackerNews\HackerNews\obj\Release\net9.0\PubTmp\Out\HackerNews.pdb
+E:\Nikhil Assessment\HackerNews\HackerNews\HackerNews\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+E:\Nikhil Assessment\HackerNews\HackerNews\HackerNews\obj\Release\net9.0\PubTmp\Out\Microsoft.OpenApi.dll
