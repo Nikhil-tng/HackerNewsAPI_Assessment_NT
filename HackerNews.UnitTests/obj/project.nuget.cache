@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ATxPyM7LzmY=",
+  "dgSpecHash": "Lb4ooOdOgDc=",
   "success": true,
-  "projectFilePath": "/Users/macbook/Desktop/HackerNews/HackerNews.UnitTests/HackerNews.UnitTests.csproj",
+  "projectFilePath": "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews.UnitTests/HackerNews.UnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/macbook/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/macbook/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",

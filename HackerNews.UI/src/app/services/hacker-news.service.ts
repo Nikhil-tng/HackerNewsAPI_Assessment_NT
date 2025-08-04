@@ -8,7 +8,7 @@ import { LoaderService } from './loader.service';
   providedIn: 'root',
 })
 export class HackerNewsService {
-  private apiUrl = 'https://localhost:7116/api/stories';
+  private apiUrl = 'http://localhost:5119/api/stories';
 
   constructor(private http: HttpClient, private loaderService: LoaderService) {}
 

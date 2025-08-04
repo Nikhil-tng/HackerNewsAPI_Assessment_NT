@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Le+CEplUZrs=",
+  "dgSpecHash": "6UFCmLq7FBE=",
   "success": true,
-  "projectFilePath": "/Users/macbook/Desktop/HackerNews/HackerNews/HackerNews.csproj",
+  "projectFilePath": "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews/HackerNews.csproj",
   "expectedPackageFiles": [
     "/Users/macbook/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
     "/Users/macbook/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"

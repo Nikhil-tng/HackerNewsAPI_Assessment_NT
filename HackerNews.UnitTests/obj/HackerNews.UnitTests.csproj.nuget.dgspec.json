@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/Desktop/HackerNews/HackerNews.UnitTests/HackerNews.UnitTests.csproj": {}
+    "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews.UnitTests/HackerNews.UnitTests.csproj": {}
   },
   "projects": {
-    "/Users/macbook/Desktop/HackerNews/HackerNews.UnitTests/HackerNews.UnitTests.csproj": {
+    "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews.UnitTests/HackerNews.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Desktop/HackerNews/HackerNews.UnitTests/HackerNews.UnitTests.csproj",
+        "projectUniqueName": "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews.UnitTests/HackerNews.UnitTests.csproj",
         "projectName": "HackerNews.UnitTests",
-        "projectPath": "/Users/macbook/Desktop/HackerNews/HackerNews.UnitTests/HackerNews.UnitTests.csproj",
+        "projectPath": "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews.UnitTests/HackerNews.UnitTests.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Desktop/HackerNews/HackerNews.UnitTests/obj/",
+        "outputPath": "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews.UnitTests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbook/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/macbook/Desktop/HackerNews/HackerNews/HackerNews.csproj": {
-                "projectPath": "/Users/macbook/Desktop/HackerNews/HackerNews/HackerNews.csproj"
+              "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews/HackerNews.csproj": {
+                "projectPath": "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews/HackerNews.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "/Users/macbook/Desktop/HackerNews/HackerNews/HackerNews.csproj": {
+    "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews/HackerNews.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Desktop/HackerNews/HackerNews/HackerNews.csproj",
+        "projectUniqueName": "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews/HackerNews.csproj",
         "projectName": "HackerNews",
-        "projectPath": "/Users/macbook/Desktop/HackerNews/HackerNews/HackerNews.csproj",
+        "projectPath": "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews/HackerNews.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Desktop/HackerNews/HackerNews/obj/",
+        "outputPath": "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbook/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/Desktop/HackerNews/HackerNews/HackerNews.csproj": {}
+    "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews/HackerNews.csproj": {}
   },
   "projects": {
-    "/Users/macbook/Desktop/HackerNews/HackerNews/HackerNews.csproj": {
+    "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews/HackerNews.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Desktop/HackerNews/HackerNews/HackerNews.csproj",
+        "projectUniqueName": "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews/HackerNews.csproj",
         "projectName": "HackerNews",
-        "projectPath": "/Users/macbook/Desktop/HackerNews/HackerNews/HackerNews.csproj",
+        "projectPath": "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews/HackerNews.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Desktop/HackerNews/HackerNews/obj/",
+        "outputPath": "/Users/macbook/Desktop/Test1/HackerNewsAPI_Assessment_NT/HackerNews/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbook/.nuget/NuGet/NuGet.Config"
