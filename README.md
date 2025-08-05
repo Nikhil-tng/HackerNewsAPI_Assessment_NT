@@ -88,3 +88,9 @@ http://localhost:5119
 ```
 
 http://localhost:5119/api/stories/new
+
+
+<img width="1522" height="812" alt="image" src="https://github.com/user-attachments/assets/809ad29e-5780-4adb-9479-8567506cdaee" />
+
+<img width="1200" height="798" alt="image" src="https://github.com/user-attachments/assets/c06955ff-a203-4245-90b3-a0088cbc1e76" />
+
