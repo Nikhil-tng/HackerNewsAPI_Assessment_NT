@@ -26,6 +26,9 @@ describe('HackerNewsService', () => {
         score: 100,
         by: 'testuser',
         time: 1234567890,
+        type: 'story',  
+        url: 'https://example.com',
+        descendants: 0
       },
     ];
 
@@ -35,7 +38,7 @@ describe('HackerNewsService', () => {
     });
 
     const req = httpMock.expectOne(
-      'http://localhost:5000/api/stories/new?page=1&pageSize=10'
+      'http://localhost:5119/api/stories/new?page=1&pageSize=10'
     );
     expect(req.request.method).toBe('GET');
     req.flush(mockStories);
