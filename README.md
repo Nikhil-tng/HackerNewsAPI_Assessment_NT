@@ -94,3 +94,5 @@ http://localhost:5119/api/stories/new
 
 <img width="1200" height="798" alt="image" src="https://github.com/user-attachments/assets/c06955ff-a203-4245-90b3-a0088cbc1e76" />
 
+End of the README.md file.
+
